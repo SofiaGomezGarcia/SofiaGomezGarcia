@@ -60,7 +60,7 @@ En este perfil encontrarás proyectos personales y trabajos en los que pongo en 
 ## 📫 Contacto
 
 <p>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sof%C3%ADa-g%C3%B3mez-garc%C3%ADa-802b6539a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sof%C3%ADa-g%C3%B3mez-garc%C3%ADa-802b6539a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
