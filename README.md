@@ -10,36 +10,36 @@ En este perfil encontrarás proyectos personales y trabajos en los que pongo en 
 
 ### 💻 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" alt="HTML, CSS, JavaScript, TypeScript, Angular y React" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Java, Spring y Node.js" />
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Bases de datos
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL y MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/DB2-054ADA?style=flat&logo=ibm&logoColor=white" alt="IBM DB2" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-%230074A2.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-%230547AD.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### 🏢 Mainframe
 
-<p>
-  <img src="https://img.shields.io/badge/COBOL-00599C?style=flat" alt="COBOL" />
-  <img src="https://img.shields.io/badge/JCL-555555?style=flat" alt="JCL" />
-</p>
+![COBOL](https://img.shields.io/badge/COBOL-%2300599C.svg?style=for-the-badge&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-%23555555.svg?style=for-the-badge&logoColor=white)
 
 ### 🔧 Herramientas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, Visual Studio Code y Eclipse" />
-</p>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
