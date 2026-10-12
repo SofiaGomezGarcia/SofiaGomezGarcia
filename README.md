@@ -4,6 +4,10 @@ Soy titulada en **Desarrollo de Aplicaciones Web (DAW)** y me interesa el desarr
 
 En este perfil encontrarás proyectos personales y trabajos en los que pongo en práctica mis conocimientos, exploro herramientas y sigo desarrollando mis habilidades.
 
+🤝 **¡Abierta a colaborar!** Me interesa participar en proyectos de desarrollo de software, compartir conocimientos y aprender junto a otros desarrolladores.
+
+📫 **Contacto:** [sofiagomez15garcia@gmail.com](mailto:sofiagomez15garcia@gmail.com)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,7 +49,13 @@ En este perfil encontrarás proyectos personales y trabajos en los que pongo en 
 
 ## 🚀 Proyectos destacados
 
-📌 
+### 📺 [ShowMeShows — Aplicación web para descubrir y seguir series](https://github.com/TFGS-2DAW-Sept-Dic-2025-2026/SofiaGomezGarcia_TFG)
+
+Aplicación web desarrollada como **Trabajo de Fin de Grado (DAW)** que permite descubrir series, gestionar listas personales, realizar un seguimiento de la visualización e interactuar con otros usuarios.
+
+🛠️ **Tecnologías:** Angular · TypeScript · Node.js · Express · MongoDB · Mongoose · JWT
+
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TFGS-2DAW-Sept-Dic-2025-2026/SofiaGomezGarcia_TFG)
 
 ---
 
